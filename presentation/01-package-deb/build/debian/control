@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Grigory Ozhegov <ozhegov@yandex-team.ru>
 Build-Depends: build-essential, debhelper (>= 9), oracle-java17-installer, cmake, git, golang
 
-Package: shbr-echo
+Package: zulu-ink-nitrogen-sixteen
 Architecture: amd64
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: shbr echo server
